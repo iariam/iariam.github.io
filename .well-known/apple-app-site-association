@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2H8SKA5YBX.com.dapp.StreamUp"
+        ],
+        "components": [
+          {
+            "/": "/movie/*",
+            "comment": "Opens movie detail in StreamUp"
+          },
+          {
+            "/": "/show/*",
+            "comment": "Opens TV show detail in StreamUp"
+          }
+        ]
+      }
+    ]
+  }
+}
