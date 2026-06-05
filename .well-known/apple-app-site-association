@@ -7,7 +7,8 @@
           "2H8SKA5YBX.com.dapp.StreamUp.iPhone"
         ],
         "components": [
-          { "/": "/" }
+          { "/": "/movie/*", "comment": "Opens movie in StreamUp" },
+          { "/": "/show/*",  "comment": "Opens TV show in StreamUp" }
         ]
       }
     ]
