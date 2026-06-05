@@ -3,13 +3,11 @@
     "details": [
       {
         "appIDs": [
-          "2H8SKA5YBX.com.dapp.StreamUp"
+          "2H8SKA5YBX.com.dapp.StreamUp",
+          "2H8SKA5YBX.com.dapp.StreamUp.iPhone"
         ],
         "components": [
-          {
-            "/": "/",
-            "comment": "Root URL with hash fragment — opens movie or show in StreamUp"
-          }
+          { "/": "/" }
         ]
       }
     ]
